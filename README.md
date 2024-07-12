@@ -1,5 +1,3 @@
-Here's a completed version of your GitHub profile introduction template:
-
 - 👋 Hi, I’m @MohamedSaeed-dev
 - 👀 I’m interested in backend web development and enhancing my programming skills.
 - 🌱 I’m currently learning more about backend development and improving my proficiency in Python, C#, and JavaScript.
