@@ -10,7 +10,7 @@
 - 👀 I’m interested in **Backend web development & AI.** 🤖
 - 🌱 I’m currently learning more about **Backend development and improving my proficiency in C#, and JavaScript.**
 - 💞️ I’m looking to collaborate on **Backend web projects and open-source contributions.**
-- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com) [Twitter](https://twitter.com/Sir4xil), [Instagram](https://instagram.com/moha.saeed_dev), [LinkedIn](https://www.linkedin.com/in/mohamed-saeed-ali-bin-omar-1aa457290/)
+- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [Twitter](https://twitter.com/Sir4xil), [Instagram](https://instagram.com/moha.saeed_dev), [LinkedIn](https://www.linkedin.com/in/mohamed-saeed-ali-bin-omar-1aa457290/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I enjoy working on backend stuffs and solving complex problems with programming.**
 
