@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Mohamed Saeed Ali bin Omar</h1>
+<h3 align="center">A Passionate Backend Developer 🧑‍💻</h3>
+
 # 💫 About Me:
 👀 I’m interested in Backend web development & AI. 🤖<br>🌱 I’m currently learning more about Backend development and improving my proficiency in C#, and JavaScript.<br>💞️ I’m looking to collaborate on Backend web projects and open-source contributions.<br>📫 How to reach me: Email, Twitter, Instagram, LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy working on backend stuffs and solving complex problems with programming.
 
