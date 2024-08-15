@@ -5,7 +5,7 @@
 - 👀 I’m interested in Backend web development & AI. 🤖
 - 🌱 I’m currently learning more about Backend development and improving my proficiency in C#, and JavaScript.
 - 💞️ I’m looking to collaborate on Backend web projects and open-source contributions.
-- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [Twitter](https://x.com/Sir4xil), [Instagram](https://instagram.com/mohamedsa.dev), [LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar)
+- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [Twitter](https://x.com/MohamedSa_dev), [Instagram](https://instagram.com/mohamedsa.dev), [LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar)
 - ⚡ Fun fact: I enjoy working on backend stuffs and solving complex problems with programming.
 - 😄 Pronouns: He/Him
 
@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaeed-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedsa.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-saeed-bin-omar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24899979/mohamed-saeed-bin-omar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sir4xil) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedsa.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-saeed-bin-omar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24899979/mohamed-saeed-bin-omar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohamedSa_dev) 
 
 
 ## 🏆 GitHub Trophies
