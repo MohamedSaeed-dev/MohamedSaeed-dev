@@ -30,6 +30,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MohamedSaeed-dev&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohamedSaeed-dev&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MohamedSaeed-dev&icon=2&color=1)](https://visitcount.itsvg.in) [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source-150x25.png)](https://github.com/firstcontributions/open-source-badges)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
