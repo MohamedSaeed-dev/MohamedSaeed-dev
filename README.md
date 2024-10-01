@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saeed Ali bin Omar</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Saeed bin Omar</h1>
 <h3 align="center">A Passionate backend developer focused on creating efficient and scalable app solutions. I'm deeply interested in backend development and AI/LLMs, and I'm continuously learning to enhance my skills in C# and JavaScript. I'm open to collaboration on innovative backend projects and love contributing to open-source communities. Let's connect!🧑‍💻</h3>
 
 # 💫 About Me:
