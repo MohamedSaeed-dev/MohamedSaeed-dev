@@ -5,7 +5,7 @@
 - 👀 I’m interested in Backend web development & AI. 🤖
 - 🌱 I’m currently learning more about Backend development and improving my proficiency in C#, and JavaScript.
 - 💞️ I’m looking to collaborate on Backend web projects and open-source contributions.
-- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [X](https://x.com/MohamedSa_dev), [Instagram](https://instagram.com/mohamedsa.dev), [LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar)
+- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar)
 - ⚡ Fun fact: I enjoy working on backend stuffs and solving complex problems with programming.
 - 😄 Pronouns: He/Him
 
