@@ -1,38 +1,73 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saeed bin Omar</h1>
-<h3 align="center">A Passionate backend developer focused on creating efficient and scalable app solutions. I'm deeply interested in backend development and AI/LLMs, and I'm continuously learning to enhance my skills in C# and JavaScript. I'm open to collaboration on innovative backend projects and love contributing to open-source communities. <br>Let's connect!🧑‍💻</br></h3>
+## Mohamed Saeed bin Omar
 
-# 💫 About Me:
-- 👀 I’m interested in Backend web development & AI. 🤖
-- 🌱 I’m currently learning more about Backend development and improving my proficiency in C#, and JavaScript.
-- 💞️ I’m looking to collaborate on Backend web projects and open-source contributions.
-- 📫 How to reach me: [Email](mailto:mohamedsas966@gmail.com), [LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar)
-- ⚡ Fun fact: I enjoy working on backend stuffs and solving complex problems with programming.
-- 😄 Pronouns: He/Him
+**Backend Engineer — .NET & Node.js** · Riyadh, Saudi Arabia
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedSaeed-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedSaeed-dev&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaeed-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build backend systems that other people depend on. Most of my work lives in
+two ecosystems: **ASP.NET Core** for line-of-business systems that need to be
+correct and stay running, and **NestJS/TypeScript** for services where I want
+fast iteration and a strong type system.
 
-## 🥇 My Counrty Rank at Stardev.io
-[![Check out MohamedSaeed-dev's profile on stardev.io](https://stardev.io/developers/MohamedSaeed-dev/badge/languages/country.svg)](https://stardev.io/developers/MohamedSaeed-dev)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedsa.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-saeed-bin-omar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24899979/mohamed-saeed-bin-omar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohamedSa_dev) 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedSaeed-dev&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohamedSaeed-dev&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+Lately I spend most of my thinking on three things: designing data access that
+does not fall apart at scale, keeping business logic out of controllers, and
+building applications on top of LLMs that behave predictably instead of
+impressively.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohamedSaeed-dev&icon=2&color=1)](https://visitcount.itsvg.in) [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source-150x25.png)](https://github.com/firstcontributions/open-source-badges)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I'm working on
+
+- **[Jaberah](https://github.com/MohamedSaeed-dev/Jaberah-ASP)** — a management
+  system for a Quran school (students, groups, teachers, attendance, exams,
+  salaries, reports). ASP.NET Core 9 API in production, deployed on every push
+  to `master`, with a [Flutter client](https://github.com/MohamedSaeed-dev/Jaberah-Flutter).
+  Real users, real data, real bug reports.
+- **[Mawaiid](https://github.com/MohamedSaeed-dev/Mawaiid)** — a backend
+  reference application where I implement the topics I want to understand
+  properly: authentication, background jobs, caching, transactions, observability.
+- Reading about distributed systems and applied LLM engineering — retrieval,
+  evaluation, and cost control rather than prompt tricks.
+
+---
+
+### How I approach engineering
+
+- **Controllers stay thin.** Transport concerns belong in the controller;
+  business rules belong in a service that can be tested without HTTP.
+- **The database is a design decision, not a detail.** Indexes, soft deletes,
+  query filters, and projection over `SELECT *` — I'd rather shape the query
+  than cache a bad one.
+- **Boring, explicit code wins.** I optimise for the person reading this in six
+  months, usually me.
+- **Ship it, then watch it.** A feature isn't done when it compiles. Logging,
+  error handling, and a deployment pipeline are part of the feature.
+
+---
+
+### Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Jaberah API](https://github.com/MohamedSaeed-dev/Jaberah-ASP) | Production school-management API — 13 modules, soft deletes, in-memory caching, CI/CD to production | ASP.NET Core 9, EF Core, SQL Server, GitHub Actions |
+| [Gitify](https://github.com/MohamedSaeed-dev/Gitify) | GitHub PR dashboard that groups pull requests by base branch and auto-detects stacked PRs | Next.js 14, TypeScript, TanStack Query, GitHub App OAuth |
+| [Arabic LinkedIn Content Generator](https://github.com/MohamedSaeed-dev/Generate-Linkedin-content) | LLM service that drafts Arabic technical posts on a schedule | NestJS, Gemini, LangChain, Prisma |
+| [NestJS + Fastify + Prisma starter](https://github.com/MohamedSaeed-dev/nestjs-fastify-prisma-starter) | Opinionated backend template — layered modules, Zod-validated config, Docker for dev and prod | NestJS, Fastify, Prisma, Docker |
+
+---
+
+### Tools I reach for
+
+**Languages** C# · TypeScript · JavaScript · Python · Dart
+**Backend** ASP.NET Core · NestJS · Express · FastAPI
+**Data** SQL Server · PostgreSQL · MongoDB · Redis · EF Core · Prisma
+**Infrastructure** Docker · GitHub Actions · Nginx
+**AI/LLM** LangChain · Gemini API · retrieval & prompt evaluation
+
+---
+
+### Contact
+
+[Email](mailto:mohamedsas966@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/mohamed-saeed-bin-omar) ·
+[Stack Overflow](https://stackoverflow.com/users/24899979/mohamed-saeed-bin-omar)
+
+Happy to talk about backend architecture, .NET, or anything LLM-adjacent.
